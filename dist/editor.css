@@ -1,0 +1,16 @@
+.wp-block-mytheme-blocks-secondblock {
+  background-color: red;
+}
+.wp-block-mytheme-blocks-fifthhblock {
+  background-color: red;
+  color: white;
+}
+.wp-block-mytheme-blocks-fifthhblock.is-style-outlined {
+  border-radius: 0px;
+  border: 2px solid currentColor;
+}
+.wp-block-mytheme-blocks-fifthhblock.is-style-squred {
+  border-radius: 0px;
+}
+
+/*# sourceMappingURL=editor.css.map*/
